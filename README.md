@@ -1,20 +1,16 @@
-<!-- ===================== HERO BANNER ===================== -->
+<!-- ===================== INTRO ===================== -->
 
-<div align="center">
+<h1 align="center">
+👋 Hi there, I'm <span style="color:#FF4B91">MD Tanvir Ahmmed</span>
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020024,50:090979,100:00D4FF&text=MD%20Tanvir%20Ahmmed&fontAlign=50&fontAlignY=38&fontSize=64&fontColor=EAF6FF&desc=CSE%20Student%20|%20AI%20×%20Healthcare%20Enthusiast%20|%20Hult%20Prize%20Semifinalist&descAlignY=62"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=26&pause=1200&color=7CDFFF&center=true&vCenter=true&width=950&lines=Assalamualaikum+👋;I+am+a+Computer+Science+student+from+Bangladesh+🇧🇩;Learning+to+build+AI+that+actually+helps+people.;Student+today,+innovator+tomorrow+🚀;Privacy-first+thinking,+impact-driven+coding." />
-
-</div>
-
----
+<p align="center">
+🎓 <b>Computer Science & Engineering Student</b><br>
+🛡️ Cyber Security & 🤖 AI Enthusiast<br>
+💻 Exploring <b>Full-Stack MERN Web Development</b><br>
+🌱 Strengthening my foundation with <b>C Programming</b><br>
+🛠 Coding mainly on <b>VS Code</b> | I love <b>problem solving & creative thinking</b>
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -22,132 +18,138 @@
 
 ---
 
-## 👤 Who Am I?
+## 👨‍💻 About Me
 
 <p align="center">
-🎓 I am a <b>Computer Science & Engineering student</b><br>
-with a strong curiosity for how technology can solve <b>real human problems</b>.
+I am a passionate <b>CSE student</b> who enjoys learning how technology works at its core.<br>
+I believe strong fundamentals create powerful developers.
 </p>
 
 <p align="center">
-I am especially interested in  
-<b>Artificial Intelligence, Healthcare Technology, and Secure System Design</b>.
+My interests revolve around <b>Cyber Security, Artificial Intelligence</b>,  
+and building meaningful software that solves real-world problems.
 </p>
 
 <p align="center">
-Right now, I’m learning, experimenting, and building —  
-preparing myself to create meaningful technology in the future.
+Right now, my journey is all about <b>learning, experimenting, and improving every single day</b>.
 </p>
 
 ---
 
-## 🌍 Competitive Journey
+## 🚀 Key Achievements
+
+### 🏆 Hackathon Recognition
+
+| # | Event | Organizer | Track | Position | Project | Prize |
+|---|------|-----------|-------|----------|---------|-------|
+| 1 | **Tech Fusion Fest 2025 – Hacktasyne** | BASIS Students' Forum (BUBT) | Open Track (Web / AI) | 🥈 **1st Runner Up** | [MedDoc Prescriber](https://github.com/TanvirAhmmedCodes/MedDoc-Prescriber) | ৳5,000 BDT |
+
+---
+
+## 🌍 Competitive Milestone
+
+<p align="center">
+🌟 <b>Hult Prize OnCampus 2025</b><br>
+<b>Qualified up to the Semifinal Round (Top 3 Rounds)</b><br>
+Project: <i>Asclepius Medical Intelligence</i> ⚕️
+</p>
+
+---
+
+## 💻 Projects
+
+<p align="center">
+These projects reflect my learning mindset and ability to apply core concepts.
+</p>
+
+### 🌐 Web / AI Project
+**🔹 MedDoc Prescriber**  
+> A web-based solution to assist medical practitioners with faster and more standardized prescription generation.  
+🏆 *Hackathon Award-Winning Project*
+
+🔗 https://github.com/TanvirAhmmedCodes/MedDoc-Prescriber
+
+---
+
+### ⚙️ C Programming Project
+**🔹 Smart Crop Care Advisor**  
+> A beginner-friendly C program simulating an agricultural advisory system using  
+`if-else`, `loops`, and `functions`.
+
+🔗 https://github.com/TanvirAhmmedCodes/Smart-Crop-Care-Advisor
+
+---
+
+## 🧠 Skills & Technical Focus
+
+### 🔹 Programming
+- **C** (Core Focus)
+- Python *(Planned)*
+- Java *(Planned)*
+
+### 🔹 Web Development (Learning Phase)
+- MERN Stack (MongoDB, Express, React, Node.js)
+- HTML, CSS, JavaScript
+
+### 🔹 Tools & Platforms
+- Git & GitHub
+- Visual Studio Code
+
+### 🔹 Areas of Interest
+- Cyber Security  
+- Artificial Intelligence  
+- Web Development  
+- Software Engineering  
+
+---
+
+## 📘 Learning Journey
+
+<p align="center">
+📌 Building a strong algorithmic base with <b>C programming</b><br>
+📌 Gradually moving into <b>Full-Stack MERN Development</b><br>
+📌 Constantly improving problem-solving skills
+</p>
+
+<p align="center">
+🎯 <b>Future Goal:</b>  
+To become a <b>Full-Stack Developer</b> with solid expertise in <b>Cyber Security</b>
+</p>
+
+---
+
+## 📞 Contact & Links
+
+<p align="center">
+📧 Email: <a href="mailto:tanvirahmmed13579@gmail.com">tanvirahmmed13579@gmail.com</a><br>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/tanvir-ahmmed-codes/">Tanvir Ahmmed</a><br>
+🌐 GitHub: <a href="https://github.com/TanvirAhmmedCodes">@TanvirAhmmedCodes</a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-🏆<br>
-<b>Hult Prize OnCampus 2025</b><br>
-Semifinalist (Top 3 Rounds)
-</td>
-<td align="center">
-🥈<br>
-<b>Tech Fusion Fest 2025</b><br>
-1st Runner Up (Hackathon)
-</td>
-</tr>
-</table>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TanvirAhmmedCodes&show_icons=true&theme=radical&hide_border=true" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=TanvirAhmmedCodes&theme=radical&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAhmmedCodes&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
-## 🧠 What I Love Exploring
+## 🐍 Contribution Activity
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">🤖<br><b>Artificial Intelligence</b></td>
-<td align="center">⚕️<br><b>Healthcare Innovation</b></td>
-<td align="center">🛡️<br><b>Privacy & Security</b></td>
-<td align="center">🌐<br><b>Web Development</b></td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TanvirAhmmedCodes/TanvirAhmmedCodes/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🧩 My Mindset as a Student Developer
-
-<div align="center">
-
-✨ Learning before claiming expertise  
-✨ Building before bragging  
-✨ Privacy before convenience  
-✨ Impact before hype  
-
-</div>
-
----
-
-## 🛠️ Tools & Technologies I Use
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,js,html,css,git,github,vscode,vercel&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TanvirAhmmedCodes&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180" src="https://streak-stats.demolab.com?user=TanvirAhmmedCodes&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TanvirAhmmedCodes/TanvirAhmmedCodes/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 📫 Let’s Connect
-
-<div align="center">
-
-<a href="mailto:tanvirahmmed13579@gmail.com">
-<img src="https://img.shields.io/badge/Email-0078FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tanvir-ahmmed-codes/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TanvirAhmmedCodes">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:00D4FF,100:020024&text=Learning.%20Building.%20Growing.%20🚀&fontSize=28&fontColor=EAF6FF"/>
-
-</div>
+<h3 align="center">
+✨ Learning today. Building tomorrow. Growing every day. 🚀
+</h3>
