@@ -1,179 +1,109 @@
-<!-- ===================== HERO SECTION ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=320&color=gradient&customColorList=10,20,30,40,50&text=MD%20Tanvir%20Ahmmed&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=Innovating%20Healthcare%20through%20AI%20&%20Cyber%20Security&descSize=22&descAlignY=62&descColor=dddddd" width="100%" />
+</div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,40:203A43,100:2C5364&text=MD%20Tanvir%20Ahmmed&fontSize=68&fontAlignY=38&fontColor=E6F1FF&desc=CSE%20Student%20|%20Cyber%20Security%20%26%20AI%20Enthusiast&descSize=24&descAlignY=62"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=800&color=00D1FF&center=true&vCenter=true&width=900&lines=Assalamualaikum+!+I+am+Tanvir+👋;Hult+Prize+2026+OnCampus+Semifinalist;Full-Stack+MERN+Engineer+in+Progress;Cyber+Security+%26+Privacy+Visionary;Building+Asclepius+Medical+Intelligence+⚕️" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=34&duration=3000&pause=1000&color=FF4B91&center=true&vCenter=true&width=1000&lines=Assalamualaikum+👋;I+am+MD+Tanvir+Ahmmed;A+Computer+Science+%26+Engineering+Student+🎓;Learning+today,+building+the+future+🚀;AI+%7C+Cyber+Security+%7C+Web+Development"/>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9vdXZ0Zm03cW92cmh0ZXR6eWdtMXo3emI4d2E2czZ0ZDFpY2QzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="90%" />
+  <a href="https://www.linkedin.com/in/tanvir-ahmmed-codes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tanvirahmmed13579@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/TanvirAhmmedCodes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://facebook.com/TanvirAhmmedCodes"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </div>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=TanvirAhmmedCodes&label=Profile%20Views&color=ff4b91&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=TanvirAhmmedCodes&label=System%20Accesses&color=00D1FF&style=flat-square" />
 </p>
 
 ---
 
-## 👤 ABOUT ME — WHO IS TANVIR?
+## ⚕️ FLAGSHIP PROJECT: ASCLEPIUS MEDICAL INTELLIGENCE
+> **"Turning Bytes into Lifesaving Insights."** *A complete medical ecosystem where AI meets uncompromised privacy.*
 
-<p align="center">
-🎓 I am a <b>Computer Science & Engineering student</b><br>
-currently shaping my skills with patience, consistency, and curiosity.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+### 🚀 Key Innovations:
+- **🧠 Clinical Intelligence Suite:** Advanced clinical assessment & pharmacological planning.
+- **👁️ Vision Modules:** RX Decrypter (Handwritten Prescription OCR) & Dermatology Vision.
+- **🛡️ Privacy Architecture:** 100% Client-side processing. Your data, your device, your privacy.
+- **🌍 Global Outreach:** Multi-language (Bangla, English, Hindi) with Nebula & Clinical themes.
+
+---
+
+## 🏆 HALL OF ACHIEVEMENTS
+
+<div align="center">
+
+| 🌍 HULT PRIZE 2026 | 🥈 TECH FUSION FEST |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="80" /> | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Medal.png" width="80" /> |
+| **OnCampus Semifinalist** | **1st Runner Up (Hacktasyne)** |
+| Qualified Top 3 Rounds | MedDoc Prescriber Project |
+
+</div>
+
+---
+
+## ⚔️ THE TECH ARMORY
+
+### 🏗️ Full-Stack Development (MERN)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,tailwind,bootstrap,vercel,postman" />
 </p>
 
-<p align="center">
-I am deeply passionate about understanding how systems work —<br>
-from <b>low-level C programming</b> to <b>AI-powered web intelligence</b>.
-</p>
-
-<p align="center">
-I enjoy learning things the <b>hard way</b> — because strong foundations<br>
-create developers who last.
-</p>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
-
----
-
-## 🎯 CURRENT FOCUS
-
-<div align="center">
-
-| Area | Status |
-|-----|-------|
-| 🎓 CSE Academic Journey | Ongoing |
-| 🌱 C Programming | Core Focus |
-| 🌐 MERN Stack | Learning |
-| 🛡️ Cyber Security | Exploring |
-| 🤖 Artificial Intelligence | Enthusiast Level |
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS & RECOGNITION
-
-<div align="center">
-
-🥈 <b>1st Runner Up — Tech Fusion Fest 2025 (Hacktasyne)</b><br>
-Organized by BASIS Students' Forum (BUBT Chapter)<br>
-Project: <b>MedDoc Prescriber</b>
-
-<br><br>
-
-🌍 <b>Hult Prize OnCampus 2025</b><br>
-<b>Qualified up to Semifinal Round (Top 3 Rounds)</b><br>
-Project: <i>Asclepius Medical Intelligence ⚕️</i>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="80%" />
-</div>
-
----
-
-## 🧠 WHAT DEFINES ME AS A STUDENT DEVELOPER
-
-<p align="center">
-✔ I prioritize fundamentals over shortcuts<br>
-✔ I believe privacy is a responsibility, not a feature<br>
-✔ I learn by building, breaking, and rebuilding<br>
-✔ I value clarity, logic, and clean thinking
+### 🛡️ Programming & Cyber Ops
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,py,java,git,github,vscode,linux,figma,kali" />
 </p>
 
 ---
 
-## 💻 PROJECT SNAPSHOT (NOT BRAGGING, JUST BUILDING)
-
-### 🌐 MedDoc Prescriber
-> Hackathon-winning web application for assisting doctors  
-> with faster and standardized prescription generation.
-
-### ⚙️ Smart Crop Care Advisor
-> Logic-driven C program simulating agricultural decision-making  
-> using `if-else`, loops, and functions.
-
----
+## 📊 CORE SYSTEM ANALYTICS
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284135-697a3b4c-94c2-4c2f-9c31-0b8f6a8d56d6.gif" width="100%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TanvirAhmmedCodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=TanvirAhmmedCodes&theme=tokyonight&hide_border=true&ring=00D1FF&fire=00D1FF" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAhmmedCodes&layout=compact&theme=tokyonight&hide_border=true&title_color=FF4B91&text_color=ffffff" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanvirAhmmedCodes&theme=tokyo-night&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🛠️ TECH STACK & TOOLS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,js,html,css,git,github,vscode,vercel&theme=dark" />
-
-</div>
-
----
-
-## 📊 GITHUB POWER ZONE
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TanvirAhmmedCodes&theme=radical&show_icons=true&hide_border=true"/>
-
-<img height="180" src="https://streak-stats.demolab.com?user=TanvirAhmmedCodes&theme=radical&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAhmmedCodes&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION LIFELINE
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/TanvirAhmmedCodes/TanvirAhmmedCodes/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/TanvirAhmmedCodes/TanvirAhmmedCodes/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ---
 
-## 📞 CONNECT WITH ME
-
 <div align="center">
-
-<a href="mailto:tanvirahmmed13579@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF4B91?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tanvir-ahmmed-codes/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TanvirAhmmedCodes">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" />
 </div>
+
+<p align="center">
+  <i>"I don't just write code. I engineer solutions that matter."</i>
+</p>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:2C5364,100:0F2027&text=Student%20Today%20%E2%80%A2%20Innovator%20Tomorrow%20🚀&fontSize=28&fontColor=E6F1FF"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&text=Thank%20You%20for%20Visiting%20%E2%9C%A8&fontSize=35&fontColor=ffffff&animation=twinkling" width="100%" />
 </div>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" width="100%" />
+</p>
+
+<h3 align="center">🚀 Consistency + Curiosity + Creativity = Growth 🚀</h3>
