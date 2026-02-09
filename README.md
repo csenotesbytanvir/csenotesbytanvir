@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=2,5,10,15,20&text=MD%20Tanvir%20Ahmmed&fontSize=85&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=Innovator%20%7C%20Hult%20Prize%20Semifinalist%20%7C%20Achiever&descSize=25&descAlignY=58&descColor=00D1FF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=2,10,15,20,30&text=MD%20Tanvir%20Ahmmed&fontSize=85&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=Building%20the%20Convergence%20of%20AI%20%E2%80%A2%20Security%20%E2%80%A2%20Web&descSize=24&descAlignY=58&descColor=00D1FF" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF4B91&center=true&vCenter=true&width=1000&lines=Hult+Prize+OnCampus+Semifinalist+🌍;Hackathon+1st+Runner+Up+🏆;Future+Cyber+Security+Expert+🛡️;Full-Stack+MERN+Architect+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF4B91&center=true&vCenter=true&width=1000&lines=Assalamualaikum+!+I+am+Tanvir+👋;Hult+Prize+OnCampus+Semifinalist+🌍;Hackathon+1st+Runner+Up+🏆;AI+Innovation+%26+Cyber+Security+Enthusiast;Full-Stack+MERN+Developer+💻" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanvirAhmmedCodes&label=System%20Accesses&color=00D1FF&style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=TanvirAhmmedCodes&label=Profile%20Views&color=ff4b91&style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -16,19 +16,19 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
-## 👤 IDENTITY REPORT
+## 👤 IDENTITY & MISSION
 
-> *"I don't just write code; I engineer solutions. My journey is defined by a relentless pursuit of fundamentals and a passion for winning through logic."*
+> *"I am a developer who believes in the power of 'AND'. I don't just choose one path; I build at the intersection of Artificial Intelligence, Cyber Security, and Full-Stack Engineering to create future-proof solutions."*
 
-* 🎓 **Current Pursuit:** Computer Science & Engineering Student.
-* 🛡️ **Core Focus:** Merging Cyber Security with AI-driven Web Architectures.
-* 🧠 **Philosophy:** Learning the hard way to build foundations that never crumble.
-* 🚀 **Vibe:** High-consistency, high-curiosity, and a winning mindset.
+* 🎓 **Academic:** Pursuing Computer Science & Engineering.
+* 🤖 **AI Vision:** Developing intelligent systems like *Asclepius* to bridge healthcare gaps.
+* 🛡️ **Security Focus:** Advocating for privacy-first architectures and HIPAA-aligned data handling.
+* 💻 **Web Engineering:** Crafting scalable, high-performance applications using the MERN stack.
 
 ---
 
 ## 🎖️ HALL OF ACHIEVEMENTS
-*Where consistency meets recognition.*
+*Proof of consistency and competitive excellence.*
 
 <div align="center">
 <table border="0">
@@ -37,13 +37,13 @@
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="120" /><br>
       <h3><b>HULT PRIZE 2026</b></h3>
       <p><b>OnCampus Semifinalist</b></p>
-      <p><i>Qualified Top 3 Rounds Globally</i></p>
+      <p><i>Recognized among the Top Teams for Global Impact</i></p>
     </td>
     <td width="50%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Medal.png" width="120" /><br>
       <h3><b>HACKTASYNE 2025</b></h3>
       <p><b>🥈 1st Runner Up</b></p>
-      <p><i>Tech Fusion Fest | BASIS Students' Forum</i></p>
+      <p><i>10-Hour Intensive Hackathon | BASIS Students' Forum</i></p>
     </td>
   </tr>
 </table>
@@ -51,19 +51,31 @@
 
 ---
 
-## 🛠️ THE VAULT (Selected Works)
+## 🚀 FEATURED INNOVATIONS
 
-* **⚕️ Asclepius Medical Intelligence:** A privacy-first AI medical ecosystem. (Hult Prize Semi-Finalist entry).
-* **📄 MedDoc Prescriber:** A high-efficiency prescription generator for practitioners. (Hackathon Winner).
-* **🌾 Smart Crop Care:** A logic-heavy agricultural advisory system built on core C.
+<div align="center">
+
+| Project | Tech Stack | Key Focus |
+| :--- | :---: | :--- |
+| **Asclepius Medical Intelligence** | `Gemini AI` `JS` `Privacy-Ops` | **Medical AI Ecosystem** - Focused on private, client-side diagnostics. |
+| **MedDoc Prescriber** | `MERN Stack` | **Healthcare Efficiency** - Standardizing clinical prescriptions. |
+| **Smart Crop Care Advisor** | `C Programming` | **Core Logic** - Building foundational algorithmic solutions. |
+
+</div>
 
 ---
 
 ## ⚔️ TECH ARMORY
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,mongodb,express,react,nodejs,html,css,tailwind,git,github,vscode,vercel,linux,figma,postman&perline=8" />
-</div>
+### 🏗️ Full-Stack & AI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,tailwind,bootstrap,vercel,postman" />
+</p>
+
+### 🛡️ Programming & Security Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,py,java,git,github,vscode,linux,kali,figma" />
+</p>
 
 ---
 
@@ -90,7 +102,7 @@
 
 ---
 
-<h2 align="center">🤝 CONNECT WITH THE ARCHITECT</h2>
+<h2 align="center">🤝 CONNECT WITH THE INNOVATOR</h2>
 
 <div align="center">
   <a href="mailto:tanvirahmmed13579@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
