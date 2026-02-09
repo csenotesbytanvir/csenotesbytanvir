@@ -1,99 +1,153 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" />
-  Hi, I'm <span style="color:#FF4B91">MD Tanvir Ahmmed</span>
-</h1>
+<!-- ===================== HERO BANNER ===================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020024,50:090979,100:00D4FF&text=MD%20Tanvir%20Ahmmed&fontAlign=50&fontAlignY=38&fontSize=64&fontColor=EAF6FF&desc=CSE%20Student%20|%20AI%20×%20Healthcare%20Enthusiast%20|%20Hult%20Prize%20Semifinalist&descAlignY=62"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=26&pause=1200&color=7CDFFF&center=true&vCenter=true&width=950&lines=Assalamualaikum+👋;I+am+a+Computer+Science+student+from+Bangladesh+🇧🇩;Learning+to+build+AI+that+actually+helps+people.;Student+today,+innovator+tomorrow+🚀;Privacy-first+thinking,+impact-driven+coding." />
+
+</div>
+
+---
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
+---
+
+## 👤 Who Am I?
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF4B91&center=true&vCenter=true&width=800&lines=CSE+Student+%7C+Cyber+Security+%26+AI+Enthusiast;Full-Stack+MERN+Developer+in+the+making;Hult+Prize+OnCampus+2026+Semifinalist;Building+Asclepius+Medical+Intelligence+⚕%EF%B8%8F" alt="Typing SVG" /></a>
+🎓 I am a <b>Computer Science & Engineering student</b><br>
+with a strong curiosity for how technology can solve <b>real human problems</b>.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanvirAhmmedCodes&label=Profile%20views&color=FF4B91&style=flat-square" alt="Views" />
+I am especially interested in  
+<b>Artificial Intelligence, Healthcare Technology, and Secure System Design</b>.
+</p>
+
+<p align="center">
+Right now, I’m learning, experimenting, and building —  
+preparing myself to create meaningful technology in the future.
 </p>
 
 ---
 
-## 🚀 Recent Milestones & Achievements
-
-### 🏆 **Hult Prize 2026 Semifinalist**
-* **Achievement:** Qualified for the **3rd Round (Semifinals)** in the Hult Prize OnCampus competition.
-* **Project:** *Asclepius Medical Intelligence* ⚕️ — An AI-driven clinical ecosystem.
-
-### 🥇 **Tech Fusion Fest 2025: Hacktasyne**
-* **Position:** **1st Runner Up** (10-Hour Hackathon).
-* **Project:** [MedDoc Prescriber](https://github.com/TanvirAhmmedCodes/MedDoc-Prescriber) — Fast & standardized prescription tool.
-
----
-
-## ⚕️ Featured Project: Asclepius Medical Intelligence
-> **"Bridging the gap between complex medical data and actionable insights with AI."**
-
-**Asclepius** is an advanced, privacy-focused AI ecosystem built with Vanilla JS and Gemini AI.
-
-* **🩺 Clinical Suite:** AI-driven symptom analysis and differential diagnosis.
-* **🔬 Vision Intel:** RX Decrypter (OCR) and Dermatology Vision for lesion analysis.
-* **💊 Pharmacology:** Drug interaction checker and clinical calculators (BMI, eGFR, Wells Criteria).
-* **🛡️ Privacy First:** Client-side processing with zero database storage (HIPAA aligned).
-* **🎨 Custom Experience:** Multi-language (Bangla, English, Hindi) and dynamic themes (Nebula, Clinical, Onyx).
-
----
-
-## 💻 Tech Stack & Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TanvirAhmmedCodes&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=TanvirAhmmedCodes&theme=radical&hide_border=true" />
-</p>
-
-### 🐍 Contribution Activity
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanvirAhmmedCodes/TanvirAhmmedCodes/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanvirAhmmedCodes/TanvirAhmmedCodes/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TanvirAhmmedCodes/TanvirAhmmedCodes/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-## 💡 Random Dev Reality
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&duration=4000&pause=1000&color=34C759&center=true&vCenter=true&width=700&lines=Code+works+perfectly...+until+the+demo+starts!;Talking+to+the+compiler+more+than+real+people;Consistency+%2B+Curiosity+%2B+Creativity+%3D+Growth+🚀" alt="Typing SVG" /></a>
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanvir-ahmmed-codes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tanvirahmmed13579@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/TanvirAhmmedCodes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## 🌍 Competitive Journey
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+<table>
+<tr>
+<td align="center">
+🏆<br>
+<b>Hult Prize OnCampus 2025</b><br>
+Semifinalist (Top 3 Rounds)
+</td>
+<td align="center">
+🥈<br>
+<b>Tech Fusion Fest 2025</b><br>
+1st Runner Up (Hackathon)
+</td>
+</tr>
+</table>
+
 </div>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" width="100%" />
-</p>
+---
+
+## 🧠 What I Love Exploring
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🤖<br><b>Artificial Intelligence</b></td>
+<td align="center">⚕️<br><b>Healthcare Innovation</b></td>
+<td align="center">🛡️<br><b>Privacy & Security</b></td>
+<td align="center">🌐<br><b>Web Development</b></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧩 My Mindset as a Student Developer
+
+<div align="center">
+
+✨ Learning before claiming expertise  
+✨ Building before bragging  
+✨ Privacy before convenience  
+✨ Impact before hype  
+
+</div>
+
+---
+
+## 🛠️ Tools & Technologies I Use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,js,html,css,git,github,vscode,vercel&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TanvirAhmmedCodes&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://streak-stats.demolab.com?user=TanvirAhmmedCodes&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TanvirAhmmedCodes/TanvirAhmmedCodes/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 📫 Let’s Connect
+
+<div align="center">
+
+<a href="mailto:tanvirahmmed13579@gmail.com">
+<img src="https://img.shields.io/badge/Email-0078FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tanvir-ahmmed-codes/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TanvirAhmmedCodes">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:00D4FF,100:020024&text=Learning.%20Building.%20Growing.%20🚀&fontSize=28&fontColor=EAF6FF"/>
+
+</div>
