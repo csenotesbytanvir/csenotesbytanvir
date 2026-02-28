@@ -199,7 +199,7 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
 
 <!-- Final Cyber Banner - Working Version -->
 <div align="center">
-  <img src="https://tenor.com/b15Xu.gif" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Knight Cyber GIF"/>
+  <img src="https://media.tenor.com/GfSKA97V9lUAAAAC/knight-xbox.gif" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Knight Cyber GIF"/>
 </div>
 
 ---
