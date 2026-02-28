@@ -199,7 +199,7 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
 
 <!-- Final Cyber Banner - Working Version -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo5ZHhveWI1bzRpNXh3YWJjcTB2ZDhubDFxNWRsZWVwaTZqODlvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o5mXsl8mQdYKKbB94F/giphy.gif" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Cyberpunk Final Banner"/>
+  <img src="https://giphy.com/gifs/bethesda-eso-elder-scrolls-online-high-isle-R7rSCM0WRTTybxOpMh" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Cyberpunk Final Banner"/>
 </div>
 
 ---
