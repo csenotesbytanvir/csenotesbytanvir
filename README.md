@@ -5,12 +5,12 @@
 </h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000%" alt="Neon Cyber Divider" style="border-radius: 15px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Cyber Divider" style="border-radius: 15px;"/>
 </div>
 
-
+<!-- Matrix Rain Banner -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFkc2Y5aGpqMGwwbjdibndxMXBiZnN6YTZ2MnozdTZuY2szdm4zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6bMh4jZvucEWSOGDW/giphy.gif" width="50%" height="80%" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFkc2Y5aGpqMGwwbjdibndxMXBiZnN6YTZ2MnozdTZuY2szdm4zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6bMh4jZvucEWSOGDW/giphy.gif" width="100%" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
 </p>
 
 <p align="center">
@@ -22,14 +22,6 @@
   <img src="https://img.shields.io/github/followers/TanvirAhmmedCodes?style=for-the-badge&color=FF00FF&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/TanvirAhmmedCodes?style=for-the-badge&color=7B2CBF&label=Stars" alt="Stars" />
 </p>
-
-<!-- New Glowing Profile Image -->
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF4M3dmaDFld2k5MXlvbGhtaHhzNmtlNmp3M21xOXN5aWxwcW4zaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" 
-       width="480" 
-       alt="Hooded Cyber Figure in Neon Code Rain" 
-       style="border: 4px solid #00F5FF; border-radius: 50px; box-shadow: 0 0 60px #00F5FF, 0 0 120px #FF00FF;" />
-</div>
 
 ---
 
@@ -153,11 +145,11 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=29&duration=2400&pause=700&color=FF00FF&center=true&vCenter=true&width=820&lines=The+code+is+strong+with+this+one...;I+speak+fluent+binary+at+3+AM;Debugging+is+just+reverse+engineering+life;Coffee+%2B+Neon+%2B+Terminal+%3D+My+love+language;Security+is+not+a+product%2C+it%27s+a+process;Built+with+curiosity+%26+caffeine+☕🔥" alt="Terminal Quotes" />
 </p>
 
-<!-- New Weekly Dev Activity GIF -->
+<!-- Cyber Figure Graphic -->
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF4M3dmaDFld2k5MXlvbGhtaHhzNmtlNmp3M21xOXN5aWxwcW4zaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" 
        width="480" 
-       alt="Hooded Cyber Figure in Neon Code Rain" 
+       alt="Cyber Figure in Neon Light" 
        style="border: 4px solid #00F5FF; border-radius: 50px; box-shadow: 0 0 60px #00F5FF, 0 0 120px #FF00FF;" />
 </div>
 
@@ -180,6 +172,9 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
   <a href="https://github.com/TanvirAhmmedCodes" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
   </a>
+  <a href="https://x.com/tanvir_ahmmed_" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A" />
+  </a>
   <a href="https://buymeacoffee.com/tanvirahmmedcodes" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0A0A0A" />
   </a>
@@ -196,7 +191,7 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
   <span style="font-size: 1.1em; color:#ffffff;">Building secure AI futures — one line of code at a time</span>
 </h3>
 
-<!-- New Final Cyber Banner -->
+<!-- Final Cyber Banner -->
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGEyZ291bjA2YjZkbzlkb2hyaTVoNDNrbzI3cnlkejhmY2gxNTN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R7rSCM0WRTTybxOpMh/giphy.gif" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Cyberpunk Final Banner"/>
 </div>
