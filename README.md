@@ -5,12 +5,12 @@
 </h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40%" height="80" alt="Neon Cyber Divider" style="border-radius: 15px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000%" alt="Neon Cyber Divider" style="border-radius: 15px;"/>
 </div>
 
-<!-- New Matrix Rain Banner -->
+
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFkc2Y5aGpqMGwwbjdibndxMXBiZnN6YTZ2MnozdTZuY2szdm4zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6bMh4jZvucEWSOGDW/giphy.gif" width="100%" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFkc2Y5aGpqMGwwbjdibndxMXBiZnN6YTZ2MnozdTZuY2szdm4zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6bMh4jZvucEWSOGDW/giphy.gif" width="70%" height="100" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
 </p>
 
 <p align="center">
