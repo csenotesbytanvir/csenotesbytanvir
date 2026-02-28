@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3em0ybDJ6czBsdGl3Z3BnZnptZzZzdGQyczQ2eXFreHpjdWgyY2NnZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/26ufnwz3wDUli7GU0/giphy.gif" width="90" height="90" alt="Cyber Icon">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE2aGxramk0a256cjdtcGgzNjh1MjgxNWNkdzB1NnE1b254OWVncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif" width="90" height="90" alt="Cyber Icon">
   <br>
-  👾 <span style="color:#00F5FF; font-family: 'Courier New', monospace; font-size: 3.2em; text-shadow: 0 0 20px #00F5FF;">MD TANVIR AHMED</span> 👾
+🤴🏻 <span style="color:#00F5FF; font-family: 'Courier New', monospace; font-size: 3.2em; text-shadow: 0 0 20px #00F5FF;">MD TANVIR AHMED</span> ⚡
 </h1>
 
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=700&size=34&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=920&lines=Assalamualaikum!+Welcome+to+the+Matrix;Cyber+Security+%26+AI+Operator+🔒🤖;Full-Stack+MERN+Architect+in+Training;Mastering+Pure+C+for+Low-Level+Mastery;1st+Runner+Up+Hacktasyne+2025+%7C+Hult+Prize+2026+Semifinalist;Building+Privacy-First+AI+Systems+for+Bangladesh+%26+Beyond" alt="Cyber Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=700&size=34&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=920&lines=Welcome+to+Master+Tanvir's+profile;Cyber+Security+%26+AI+Enthusiast+🔒🤖;Full-Stack+MERN+Architect+in+Training;Mastering+Pure+C+CPP+for+Low-Level+Mastery;1st+Runner+Up+Hacktasyne+2025;Hult+Prize+2026+On+Campus+Semifinalist" alt="Cyber Typing" />
 </p>
 
 <p align="center">
@@ -19,19 +19,22 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3q2K5P9l3q2K5P9l/giphy.gif" width="420" alt="Cyber Hacker Terminal GIF" style="border: 3px solid #00F5FF; border-radius: 15px; box-shadow: 0 0 30px #00F5FF;" />
+  <img src="https://images.stockcake.com/public/e/0/7/e0725295-b53f-4047-b2c0-d0e8fe0d0723/digital-phantom-emerges-stockcake.jpg" 
+       width="480" 
+       alt="Hooded Cyber Figure in Neon Code Rain" 
+       style="border: 3px solid #00F5FF; border-radius: 15px; box-shadow: 0 0 40px #00F5FF;" />
 </div>
 
 ---
 
 ## 🕶️ MISSION BRIEF
 
-**Computer Science & Engineering Student** | **Cyber Security & Artificial Intelligence Operator**
+**Computer Science & Engineering Student** | **Cyber Security & Artificial Intelligence Enthusiast**
 
 - Actively building **secure, privacy-first Full-Stack MERN** applications
-- Mastering **pure C** through real-world simulation projects
+- Mastering **pure C & C++** through real-world simulation projects
 - Specializing in **AI-powered healthcare** & **IoT-inspired smart systems**
-- **National-level Hackathon Winner** & **Hult Prize 2026 Semi-Finalist**
+- **OnCampus-level Hackathon Winner** & **Hult Prize 2026 Semi-Finalist**
 
 > "Security is not a feature. It's the operating system of the future."
 
@@ -44,12 +47,8 @@
 | # | Event | Organizer | Track | Rank | Project | Reward |
 |---|-------|-----------|-------|------|---------|--------|
 | 1 | **Hacktasyne 2025** (10-Hour) | BASIS Students' Forum BUBT | Web + AI | **🥈 1st Runner Up** | [MedDoc Prescriber](https://github.com/TanvirAhmmedCodes/MedDoc-Prescriber) | **₹5,000 BDT** |
-| 2 | **Hult Prize 2026 On-Campus** | Hult Prize Foundation | Health & Wellbeing | **🏅 Semi-Finalist** | [Asclepius Medical Intelligence](https://github.com/TanvirAhmmedCodes/Asclepius-Medical-Intelligence) | National Round Qualifier |
+| 2 | **Hult Prize 2026 On-Campus** | Hult Prize Foundation | Health & Wellbeing | **🏅 Semi-Finalist** | [Asclepius Medical Intelligence](https://github.com/TanvirAhmmedCodes/Asclepius-Medical-Intelligence) | Certificate |
 
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanvirAhmmedCodes&theme=dracula&no-frame=true&margin-w=20&row=1&column=7&title_color=00F5FF" alt="Trophies" />
 </div>
 
 ---
@@ -90,7 +89,7 @@ IoT-inspired console-based smart agriculture advisor. Takes moisture, temperatur
 </p>
 
 **Mastered** → C (Low-level & Algorithms)  
-**Advanced** → MERN Stack + TypeScript  
+**Advanced** → MERN Stack + JavaScript  
 **Learning** → Python for AI/ML • Ethical Hacking • IoT Security  
 **Domains** → Cyber Security • Artificial Intelligence • Full-Stack • IoT Simulations
 
@@ -106,13 +105,16 @@ IoT-inspired console-based smart agriculture advisor. Takes moisture, temperatur
 
 ### 🌐 GLOBAL NEURAL ACTIVITY MAP
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanvirAhmmedCodes&theme=dracula&bg_color=0A0A0A&color=00F5FF&line=FF00FF&point=ffffff&area=true&hide_border=true&radius=20" alt="Contribution Activity Graph" width="95%" style="border-radius: 16px; box-shadow: 0 0 30px rgba(0, 245, 255, 0.3);"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanvirAhmmedCodes&&bg_color=0A0A0A&color=00F5FF&line=FF00FF&point=ffffff&area=true&hide_border=true&radius=20" alt="Contribution Activity Graph" width="95%" style="border-radius: 16px; box-shadow: 0 0 30px rgba(0, 245, 255, 0.3);"/>
 </div>
 
 ### 🐍 SYSTEM INFILTRATION PATTERN (Contribution Snake)
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanvirAhmmedCodes/TanvirAhmmedCodes/output/github-contribution-grid-snake.svg" alt="Cyber Contribution Snake" width="92%" style="border-radius: 12px;"/>
 </p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TanvirAhmmedCodes&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 
@@ -123,7 +125,7 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
 
 ---
 
-## 🎯 NEXT MISSION PROTOCOL (2026 Roadmap)
+## 🎯 NEXT MISSION PROTOCOL (Roadmap)
 
 - **Q1** → Complete MERN + TypeScript mastery + Deploy 3 production apps
 - **Q2** → Ethical Hacking (CEH level) + Bug Bounty hunting
@@ -168,7 +170,7 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
 </h3>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Cyberpunk Final Banner"/>
+  <img src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Cyberpunk Final Banner"/>
 </div>
 
 ---
