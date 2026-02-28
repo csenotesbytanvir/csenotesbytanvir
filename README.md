@@ -198,9 +198,9 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
 </h3>
 
 <!-- Final Cyber Banner - Working Version -->
-<div align="center">
-  <img src="https://media.tenor.com/GfSKA97V9lUAAAAC/knight-xbox.gif" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Knight Cyber GIF"/>
-</div>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWs2NjFzYm4zajd3Y3UwOWtnbWVmdmh4MWhvb2trbmJxNDYwNDFkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R7rSCM0WRTTybxOpMh/giphy.gif" width="50%" height="2200" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
+</p>
 
 ---
 
