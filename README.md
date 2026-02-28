@@ -5,12 +5,12 @@
 </h1>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFkc2Y5aGpqMGwwbjdibndxMXBiZnN6YTZ2MnozdTZuY2szdm4zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6bMh4jZvucEWSOGDW/giphy.gif" width="70%" height="100" alt="Neon Cyber Divider" style="border-radius: 15px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Cyber Divider" style="border-radius: 15px;"/>
 </div>
 
-<!-- Matrix Rain Banner -->
+<!-- New Matrix Rain Banner -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FhbmdpcXludDZ1bWpxdGZ0b2F1eGp6bndudmNhMWRzdzd5d3N6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="100%" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFkc2Y5aGpqMGwwbjdibndxMXBiZnN6YTZ2MnozdTZuY2szdm4zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6bMh4jZvucEWSOGDW/giphy.gif" width="100%" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
 </p>
 
 <p align="center">
@@ -23,12 +23,12 @@
   <img src="https://img.shields.io/github/stars/TanvirAhmmedCodes?style=for-the-badge&color=7B2CBF&label=Stars" alt="Stars" />
 </p>
 
-<!-- Glowing Profile Image -->
+<!-- New Glowing Profile Image -->
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1563206767-5b18f218e8de?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF4M3dmaDFld2k5MXlvbGhtaHhzNmtlNmp3M21xOXN5aWxwcW4zaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" 
        width="480" 
        alt="Hooded Cyber Figure in Neon Code Rain" 
-       style="border: 4px solid #00F5FF; border-radius: 50px; box-shadow: 0 0 60px #00F5FF, 0 0 120px #FF00FF; filter: hue-rotate(250deg);" />
+       style="border: 4px solid #00F5FF; border-radius: 50px; box-shadow: 0 0 60px #00F5FF, 0 0 120px #FF00FF;" />
 </div>
 
 ---
@@ -153,9 +153,9 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=29&duration=2400&pause=700&color=FF00FF&center=true&vCenter=true&width=820&lines=The+code+is+strong+with+this+one...;I+speak+fluent+binary+at+3+AM;Debugging+is+just+reverse+engineering+life;Coffee+%2B+Neon+%2B+Terminal+%3D+My+love+language;Security+is+not+a+product%2C+it%27s+a+process;Built+with+curiosity+%26+caffeine+☕🔥" alt="Terminal Quotes" />
 </p>
 
-<!-- Weekly Dev Activity GIF -->
+<!-- New Weekly Dev Activity GIF -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZqYmpycHYwZjJhaWw2dXBrcmp0aXlteTBjY2dscXR0bzBrZTNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btNaQJk6iydTVXG/giphy.gif" width="600" alt="Coding at Night" style="border-radius: 20px; box-shadow: 0 0 40px #FF00FF;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlhbTF1N3kwaWFnaXBrbm8wZWFqMGVydXJ1NXVibmYzdmt5dTc1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SP4zxMr1Hd0vRMRReT/giphy.gif" width="600" alt="Coding at Night" style="border-radius: 20px; box-shadow: 0 0 40px #FF00FF;" />
 </p>
 
 <!-- Random Dev Quote -->
@@ -193,11 +193,12 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
   <span style="font-size: 1.1em; color:#ffffff;">Building secure AI futures — one line of code at a time</span>
 </h3>
 
+<!-- New Final Cyber Banner -->
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWk4dGJ1cDMyNzBkYzhvd2NpY2d5OHZqcG15c2J2dW5ldjZlcjV2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lI5PJ7z6M3iLDi/giphy.gif" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Cyberpunk Final Banner"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFkc2Y5aGpqMGwwbjdibndxMXBiZnN6YTZ2MnozdTZuY2szdm4zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6bMh4jZvucEWSOGDW/giphy.gif" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Cyberpunk Final Banner"/>
 </div>
 
 ---
 
 **From the Matrix**  
-**MD Tanvir Ahmmed** — Cyber Security & AI Enthusiast🔒🤖
+**MD Tanvir Ahmmed** — Cyber Security & AI Enthusiast 🔒🤖
