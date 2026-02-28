@@ -197,7 +197,7 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
   <span style="font-size: 1.1em; color:#ffffff;">Building secure AI futures — one line of code at a time</span>
 </h3>
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdoYWkwajN0aHZ6ZTBlanE1ZDVzd2M2bmFmNWJvcHMwaGd2bWNiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bHSkKRvkRvy5chUBBp/giphy.gif" width="50%" height="2200" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50%" height="2200" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
 </p>
 
 ---
