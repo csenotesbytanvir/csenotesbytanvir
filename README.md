@@ -10,7 +10,7 @@
 
 <!-- Matrix Rain Banner -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFkc2Y5aGpqMGwwbjdibndxMXBiZnN6YTZ2MnozdTZuY2szdm4zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6bMh4jZvucEWSOGDW/giphy.gif" width="50%" height="80" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFkc2Y5aGpqMGwwbjdibndxMXBiZnN6YTZ2MnozdTZuY2szdm4zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6bMh4jZvucEWSOGDW/giphy.gif" width="50%" height="100" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
 </p>
 
 <p align="center">
