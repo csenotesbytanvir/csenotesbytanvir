@@ -8,6 +8,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Cyber Divider" style="border-radius: 15px;"/>
 </div>
 
+<!-- Matrix Rain Banner -->
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FhbmdpcXludDZ1bWpxdGZ0b2F1eGp6bndudmNhMWRzdzd5d3N6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="100%" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=700&size=34&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=920&lines=Welcome+to+Master+Tanvir's+profile;Cyber+Security+%26+AI+Enthusiast+🔒🤖;Full-Stack+MERN+Architect+in+Training;Mastering+Pure+C+CPP+for+Low-Level+Mastery;1st+Runner+Up+Hacktasyne+2025;Hult+Prize+2026+On+Campus+Semifinalist" alt="Cyber Typing" />
 </p>
@@ -18,11 +23,12 @@
   <img src="https://img.shields.io/github/stars/TanvirAhmmedCodes?style=for-the-badge&color=7B2CBF&label=Stars" alt="Stars" />
 </p>
 
+<!-- Glowing Profile Image -->
 <div align="center">
-  <img src="https://images.stockcake.com/public/e/0/7/e0725295-b53f-4047-b2c0-d0e8fe0d0723/digital-phantom-emerges-stockcake.jpg" 
+  <img src="https://images.unsplash.com/photo-1563206767-5b18f218e8de?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
        width="480" 
        alt="Hooded Cyber Figure in Neon Code Rain" 
-       style="border: 3px solid #00F5FF; border-radius: 15px; box-shadow: 0 0 40px #00F5FF;" />
+       style="border: 4px solid #00F5FF; border-radius: 50px; box-shadow: 0 0 60px #00F5FF, 0 0 120px #FF00FF; filter: hue-rotate(250deg);" />
 </div>
 
 ---
@@ -46,8 +52,8 @@
 
 | # | Event | Organizer | Track | Rank | Project | Reward |
 |---|-------|-----------|-------|------|---------|--------|
-| 1 | **Hacktasyne 2025** (10-Hour) | BASIS Students' Forum BUBT | Web + AI | **🥈 1st Runner Up** | [MedDoc Prescriber](https://github.com/TanvirAhmmedCodes/MedDoc-Prescriber) | **₹5,000 BDT** |
-| 2 | **Hult Prize 2026 On-Campus** | Hult Prize Foundation | Health & Wellbeing | **🏅 Semi-Finalist** | [Asclepius Medical Intelligence](https://github.com/TanvirAhmmedCodes/Asclepius-Medical-Intelligence) | Certificate |
+| 1 | **Hacktasyne 2025** (10-Hour) | BASIS Students' Forum BUBT | Web + AI | <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJvbmNqY3M4dGJqYzNyeGJhbHl5YnZqZDRkdGJ6a2VoYzhnajU0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYt5jH6gkTWm8qo/giphy.gif" width="30" height="30" alt="Silver Medal"> **1st Runner Up** | [MedDoc Prescriber](https://github.com/TanvirAhmmedCodes/MedDoc-Prescriber) | **₹5,000 BDT** |
+| 2 | **Hult Prize 2026 On-Campus** | Hult Prize Foundation | Health & Wellbeing | <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFoNTVla3Y3cXR2aHV3b3lwc2w0YjFwbGNmcG5sYjdsYzQ2NnNseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDcsa0o2rJ7aGPy/giphy.gif" width="30" height="30" alt="Trophy"> **🏅 Semi-Finalist** | [Asclepius Medical Intelligence](https://github.com/TanvirAhmmedCodes/Asclepius-Medical-Intelligence) | Certificate |
 
 </div>
 
@@ -60,7 +66,7 @@
 Privacy-first, local-first AI medical intelligence platform (Gemini-powered). Supports English + Bengali. Designed for rural healthcare accessibility in Bangladesh.
 
 **Tech Stack:** React • Node.js • Gemini API • Tailwind • Local Storage  
-[→ Live Repository](https://github.com/TanvirAhmmedCodes/Asclepius-Medical-Intelligence)
+[![Repo](https://img.shields.io/badge/Repository-Live-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)](https://github.com/TanvirAhmmedCodes/Asclepius-Medical-Intelligence)
 
 ---
 
@@ -69,7 +75,7 @@ Privacy-first, local-first AI medical intelligence platform (Gemini-powered). Su
 AI-assisted prescription generator for doctors. Reduces errors, standardizes format, saves time.
 
 **Tech Stack:** MERN • TypeScript • AI Simulation  
-[→ Live Repository](https://github.com/TanvirAhmmedCodes/MedDoc-Prescriber)
+[![Repo](https://img.shields.io/badge/Repository-Live-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)](https://github.com/TanvirAhmmedCodes/MedDoc-Prescriber)
 
 ---
 
@@ -78,7 +84,7 @@ AI-assisted prescription generator for doctors. Reduces errors, standardizes for
 IoT-inspired console-based smart agriculture advisor. Takes moisture, temperature, irrigation data and gives expert crop care suggestions using pure C logic (file handling, functions, loops).
 
 **Tech Stack:** Pure C  
-[→ Live Repository](https://github.com/TanvirAhmmedCodes/Smart-Crop-Care-Advisor)
+[![Repo](https://img.shields.io/badge/Repository-Live-7B2CBF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)](https://github.com/TanvirAhmmedCodes/Smart-Crop-Care-Advisor)
 
 ---
 
@@ -113,6 +119,11 @@ IoT-inspired console-based smart agriculture advisor. Takes moisture, temperatur
   <img src="https://raw.githubusercontent.com/TanvirAhmmedCodes/TanvirAhmmedCodes/output/github-contribution-grid-snake.svg" alt="Cyber Contribution Snake" width="92%" style="border-radius: 12px;"/>
 </p>
 
+### 🏆 GITHUB TROPHIES
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TanvirAhmmedCodes&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title_color=00F5FF&icon_color=FF00FF" alt="GitHub Trophies" style="border-radius: 15px; box-shadow: 0 0 40px #00F5FF;" />
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TanvirAhmmedCodes&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
@@ -142,6 +153,16 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=29&duration=2400&pause=700&color=FF00FF&center=true&vCenter=true&width=820&lines=The+code+is+strong+with+this+one...;I+speak+fluent+binary+at+3+AM;Debugging+is+just+reverse+engineering+life;Coffee+%2B+Neon+%2B+Terminal+%3D+My+love+language;Security+is+not+a+product%2C+it%27s+a+process;Built+with+curiosity+%26+caffeine+☕🔥" alt="Terminal Quotes" />
 </p>
 
+<!-- Weekly Dev Activity GIF -->
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZqYmpycHYwZjJhaWw2dXBrcmp0aXlteTBjY2dscXR0bzBrZTNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btNaQJk6iydTVXG/giphy.gif" width="600" alt="Coding at Night" style="border-radius: 20px; box-shadow: 0 0 40px #FF00FF;" />
+</p>
+
+<!-- Random Dev Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="80%" style="border-radius: 15px;" />
+</p>
+
 ---
 
 ## 🔐 ESTABLISH ENCRYPTED CONNECTION
@@ -155,6 +176,9 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
   </a>
   <a href="https://github.com/TanvirAhmmedCodes" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="https://buymeacoffee.com/tanvirahmmedcodes" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0A0A0A" />
   </a>
 </p>
 
@@ -170,10 +194,10 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
 </h3>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Cyberpunk Final Banner"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWk4dGJ1cDMyNzBkYzhvd2NpY2d5OHZqcG15c2J2dW5ldjZlcjV2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lI5PJ7z6M3iLDi/giphy.gif" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Cyberpunk Final Banner"/>
 </div>
 
 ---
 
 **From the Matrix**  
-**MD Tanvir Ahmmed** — Cyber Security & AI Operator 🔒🤖
+**MD Tanvir Ahmmed** — Cyber Security & AI Enthusiast🔒🤖
