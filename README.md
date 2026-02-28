@@ -154,9 +154,12 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
 </p>
 
 <!-- New Weekly Dev Activity GIF -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlhbTF1N3kwaWFnaXBrbm8wZWFqMGVydXJ1NXVibmYzdmt5dTc1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SP4zxMr1Hd0vRMRReT/giphy.gif" width="600" alt="Coding at Night" style="border-radius: 20px; box-shadow: 0 0 40px #FF00FF;" />
-</p>
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF4M3dmaDFld2k5MXlvbGhtaHhzNmtlNmp3M21xOXN5aWxwcW4zaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" 
+       width="480" 
+       alt="Hooded Cyber Figure in Neon Code Rain" 
+       style="border: 4px solid #00F5FF; border-radius: 50px; box-shadow: 0 0 60px #00F5FF, 0 0 120px #FF00FF;" />
+</div>
 
 <!-- Random Dev Quote -->
 <p align="center">
@@ -195,7 +198,7 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
 
 <!-- New Final Cyber Banner -->
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFkc2Y5aGpqMGwwbjdibndxMXBiZnN6YTZ2MnozdTZuY2szdm4zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6bMh4jZvucEWSOGDW/giphy.gif" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Cyberpunk Final Banner"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGEyZ291bjA2YjZkbzlkb2hyaTVoNDNrbzI3cnlkejhmY2gxNTN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R7rSCM0WRTTybxOpMh/giphy.gif" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Cyberpunk Final Banner"/>
 </div>
 
 ---
