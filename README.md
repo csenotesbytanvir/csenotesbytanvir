@@ -10,7 +10,7 @@
 
 <!-- Matrix Rain Banner -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFkc2Y5aGpqMGwwbjdibndxMXBiZnN6YTZ2MnozdTZuY2szdm4zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6bMh4jZvucEWSOGDW/giphy.gif" width="100%" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFkc2Y5aGpqMGwwbjdibndxMXBiZnN6YTZ2MnozdTZuY2szdm4zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6bMh4jZvucEWSOGDW/giphy.gif" width="50%" height="80" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
 </p>
 
 <p align="center">
@@ -96,9 +96,15 @@ IoT-inspired console-based smart agriculture advisor. Takes moisture, temperatur
 ## 📡 LIVE OPERATIONS DASHBOARD
 
 <div align="center">
-  <img height="195" src="https://streak-stats.demolab.com?user=TanvirAhmmedCodes&theme=dracula&hide_border=true&border_radius=16&ring=00F5FF&fire=FF00FF&stroke=00F5FF" alt="GitHub Streak" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=TanvirAhmmedCodes&show_icons=true&theme=dracula&hide_border=true&border_radius=16&title_color=00F5FF&text_color=ffffff&icon_color=FF00FF&count_private=true" alt="GitHub Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAhmmedCodes&layout=compact&theme=dracula&hide_border=true&border_radius=16&title_color=00F5FF&text_color=ffffff" alt="Top Languages" />
+  <img height="180" src="https://streak-stats.demolab.com?user=TanvirAhmmedCodes&theme=dracula&hide_border=true&border_radius=16&ring=00F5FF&fire=FF00FF&stroke=00F5FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TanvirAhmmedCodes&show_icons=true&theme=dracula&hide_border=true&border_radius=16&title_color=00F5FF&text_color=ffffff&icon_color=FF00FF&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAhmmedCodes&layout=compact&theme=dracula&hide_border=true&border_radius=16&title_color=00F5FF&text_color=ffffff" alt="Top Languages" />
 </div>
 
 ### 🌐 GLOBAL NEURAL ACTIVITY MAP
@@ -106,7 +112,7 @@ IoT-inspired console-based smart agriculture advisor. Takes moisture, temperatur
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanvirAhmmedCodes&&bg_color=0A0A0A&color=00F5FF&line=FF00FF&point=ffffff&area=true&hide_border=true&radius=20" alt="Contribution Activity Graph" width="95%" style="border-radius: 16px; box-shadow: 0 0 30px rgba(0, 245, 255, 0.3);"/>
 </div>
 
-### 🐍 SYSTEM INFILTRATION PATTERN (Contribution Snake)
+### 🐍 SYSTEM INFILTRATION PATTERN
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanvirAhmmedCodes/TanvirAhmmedCodes/output/github-contribution-grid-snake.svg" alt="Cyber Contribution Snake" width="92%" style="border-radius: 12px;"/>
 </p>
@@ -130,7 +136,7 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
 
 ## 🎯 NEXT MISSION PROTOCOL (Roadmap)
 
-- **Q1** → Complete MERN + TypeScript mastery + Deploy 3 production apps
+- **Q1** → Complete MERN + JavaScript mastery + Deploy 3 production apps
 - **Q2** → Ethical Hacking (CEH level) + Bug Bounty hunting
 - **Q3** → AI/ML with Python + Gemini API advanced integration
 - **Q4** → IoT Security & Embedded Systems (Raspberry Pi + Arduino)
@@ -164,19 +170,19 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
 
 <p align="center">
   <a href="mailto:tanvirahmmed13579@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-tanvirahmmed13579@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A&color=EA4335" />
   </a>
   <a href="https://www.linkedin.com/in/tanvir-ahmmed-codes/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" />
   </a>
   <a href="https://github.com/TanvirAhmmedCodes" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
   </a>
   <a href="https://x.com/tanvir_ahmmed_" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A" />
   </a>
   <a href="https://buymeacoffee.com/tanvirahmmedcodes" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0A0A0A" />
   </a>
 </p>
 
@@ -191,9 +197,9 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
   <span style="font-size: 1.1em; color:#ffffff;">Building secure AI futures — one line of code at a time</span>
 </h3>
 
-<!-- Final Cyber Banner -->
+<!-- Final Cyber Banner - Working Version -->
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGEyZ291bjA2YjZkbzlkb2hyaTVoNDNrbzI3cnlkejhmY2gxNTN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R7rSCM0WRTTybxOpMh/giphy.gif" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Cyberpunk Final Banner"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BkN3g5dWZ1dGU2dWJ6dTlqNWR6d3NqeWJ4b3h6dGswdGp2cGx1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="100%" style="border-radius: 18px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.5);" alt="Cyberpunk Final Banner"/>
 </div>
 
 ---
