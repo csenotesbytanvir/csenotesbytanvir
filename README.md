@@ -196,10 +196,8 @@ Future upgrades: Python + Raspberry Pi + real sensors → full IoT edge security
   ✦ CONSISTENCY IS THE ULTIMATE ZERO-DAY EXPLOIT ✦<br>
   <span style="font-size: 1.1em; color:#ffffff;">Building secure AI futures — one line of code at a time</span>
 </h3>
-
-<!-- Final Cyber Banner - Working Version -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWs2NjFzYm4zajd3Y3UwOWtnbWVmdmh4MWhvb2trbmJxNDYwNDFkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R7rSCM0WRTTybxOpMh/giphy.gif" width="50%" height="2200" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdoYWkwajN0aHZ6ZTBlanE1ZDVzd2M2bmFmNWJvcHMwaGd2bWNiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bHSkKRvkRvy5chUBBp/giphy.gif" width="50%" height="2200" alt="Matrix Code Rain" style="border-radius: 20px; box-shadow: 0 0 40px #00F5FF;" />
 </p>
 
 ---
